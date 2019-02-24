@@ -11,5 +11,7 @@ int main(void) {
     printf("yours: ");
     fputs(s, stdout);
 
+    printf("Petfect!!!");
+
     return 0;
 }
